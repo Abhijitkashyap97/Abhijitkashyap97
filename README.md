@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Abhijitkashyap97
-- 👀 I’m interested in PHP, Javascript and MYSQL 
-- 🌱 I’m currently learning Express.js
+- 👀 I’m interested in React, Express and MYSQL 
+- 🌱 I’m currently learning Data structure and algorithms 
   
 
 <!---
