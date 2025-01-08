@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Abhijitkashyap97
-- 👀 I’m interested in React, Express and MYSQL 
+- 👀 I’m interested in MERN Stack
 - 🌱 I’m currently learning Data structure and algorithms 
   
 
